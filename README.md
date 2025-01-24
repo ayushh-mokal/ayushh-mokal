@@ -1,6 +1,8 @@
-# Hi there, I'm Ayush Mokal 👋
+# नमस्ते!👋
 
-I am a fresh Data Science graduate passionate about machine learning, data analytics, and exploring innovative ways to solve problems. My interests include data exploration, mining, statistical analysis, and visualization. I love leveraging technology to build impactful solutions and am constantly exploring new ways to apply AI and machine learning in real-world projects.
+I’m Ayush Mokal, a data science enthusiast with a love for music and a constant drive to learn something new every day. I enjoy solving problems and get excited about the possibilities data can offer. Right now, I’m on the lookout for new opportunities to grow and keep learning.
+
+I’m always open to connecting with others—whether it’s to chat about the latest in data science, explore job opportunities, or team up on interesting projects. Feel free to reach out if you’re interested!
 
 ## 🛠️ **Technologies & Tools**
 
