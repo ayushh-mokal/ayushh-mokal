@@ -17,10 +17,11 @@ I’m always open to connecting with others—whether it’s to chat about the l
 
 
 ## 📚 Projects
-- **[AI-Powered Chatbot](#)**: An intelligent chatbot project using OpenAI's GPT-3.5 for smart responses.
-- **[Next-Word Prediction](#)**: Built an LSTM-based model for predicting the next word in a sequence.
-- **[Air Canvas](#)**: A computer vision project to create a virtual drawing tool using hand gestures.
-- **[Financial Sentimental Analysis](https://github.com/ayushh-mokal/Financial-Sentimental-Analysis)**: Analyzing financial news articles to determine market sentiment using **Recurrent Neural Networks (RNNs)**.
+- **[AI-Powered Chatbot 🤖](https://github.com/ayushh-mokal/ChatBot-UsinG-LangChain)**: An intelligent chatbot project using **OpenAI's GPT-3.5** for smart responses.
+- **[Next-Word Prediction 🔮](https://github.com/ayushh-mokal/Next-Word-Prediction-Using-LSTM)**: Built an **LSTM-based model** for predicting the next word in a sequence.
+- **[Air Canvas 🎨](https://github.com/ayushh-mokal/Air-Brush)**: A **computer vision** project to create a virtual drawing tool using **hand gestures**.
+- **[Financial Sentimental Analysis 📈](https://github.com/ayushh-mokal/Financial-Sentimental-Analysis)**: Analyzing **financial news articles** to determine market sentiment using **Recurrent Neural Networks (RNNs)**.
+
 
 
 ## 📬 **Get in Touch**
