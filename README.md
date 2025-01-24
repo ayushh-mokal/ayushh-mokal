@@ -21,8 +21,10 @@ I’m always open to connecting with others—whether it’s to chat about the l
 - **[Next-Word Prediction](#)**: Built an LSTM-based model for predicting the next word in a sequence.
 - **[Air Canvas](#)**: A computer vision project to create a virtual drawing tool using hand gestures.
 
-## 🚀 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/ayushmokal)
-- [Email](mailto:ayushmokal50@gmail.com)
+## 📬 **Get in Touch**
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmokal) 
+- [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:ayushmokal50@gmail.com) 
+
 
 Thanks for visiting my GitHub!
