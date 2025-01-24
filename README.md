@@ -29,5 +29,8 @@ I’m always open to connecting with others—whether it’s to chat about the l
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush8mokal)
 - [![Mail](https://img.shields.io/badge/Email-9C1D29?style=flat&logo=gmail&logoColor=white)](mailto:ayushmokal50@gmail.com)
 
+### Here's a fun GIF to brighten your day! 🎉
+
+![Fun GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611idr2r428dww9g80ln5nb5q82ud5mxynvvzhgfr4m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Thanks for visiting my GitHub!
