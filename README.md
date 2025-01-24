@@ -24,7 +24,7 @@ I’m always open to connecting with others—whether it’s to chat about the l
 ## 📬 **Get in Touch**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush8mokal) :linkedin.com/in/ayush8mokal
-- [![Mail](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)] :ayushmokal50@gmail.com (mailto:ayushmokal50@gmail.com)
+- [![Mail](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)] :ayushmokal50@gmail.com 
 
 
 Thanks for visiting my GitHub!
